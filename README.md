@@ -1,7 +1,7 @@
 # TryTest
 Clone the all project
 
-create a branch in local which name is your name and checkout it
+use your branch in local which name is your name and checkout it
 
 create a class in package person which name is TesterABC
 
