@@ -1,9 +1,10 @@
 package person;
 
-public class TesterOY {
+public class TesterOY extends Employee {
 
-    public static void main(String[] args) {
+    @Override
+    public void name() {
 
-        System.out.println("Hello, I am Ömer");
+        System.out.println("Erdem Cem ERGÜL");
     }
 }
