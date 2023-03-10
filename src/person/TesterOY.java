@@ -5,6 +5,6 @@ public class TesterOY extends Employee {
     @Override
     public void name() {
 
-        System.out.println("Erdem Cem ERGÜL");
+        System.out.println("Ömer YILMAZ");
     }
 }
